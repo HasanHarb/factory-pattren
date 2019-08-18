@@ -1,0 +1,1 @@
+##Factor Method Pattren##
